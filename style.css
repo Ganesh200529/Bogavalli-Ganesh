@@ -28,5 +28,9 @@ p{
     color: rgb(0, 0, 0)
 }
 h3{
+    text-align: left;
     color: #000;
+}
+a{
+    color: black;
 }
