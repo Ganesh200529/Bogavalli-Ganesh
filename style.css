@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #008cff;
+    color: rgba(251, 233, 233, 0.941)
+}
+hr{
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+table{
+    color: #000;
+    border:solid;
+    border-color: black;
+}
+td{
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+pre{
+    font-size:large;
+    color: rgb(0, 0, 0);
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0)
+}
+h3{
+    color: #000;
+}
