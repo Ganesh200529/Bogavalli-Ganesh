@@ -31,6 +31,9 @@ h3{
     text-align: left;
     color: #000;
 }
+#sig{
+    text-align: right;
+}
 a{
     color: black;
 }
